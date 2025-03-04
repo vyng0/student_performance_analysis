@@ -3,7 +3,7 @@
 ## Overview
 This project analyzes student performance on math, reading, and writing scores based on several factors including gender, race, parent level of education, lunch and test preparation course. 
 
-frailty_analysis/
+student_performance_analysis/
 ├── raw_data/            # Stores original dataset
 │   ├── StudentsPerformance.csv
 ├── cleaned_data/        # Stores cleaned/processed dataset
