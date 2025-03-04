@@ -3,7 +3,6 @@
 ## Overview
 This project analyzes student performance on math, reading, and writing scores based on several factors including gender, race, parent level of education, lunch and test preparation course. 
 
-## Folder Structure
 student_performance_analysis/
 ├── raw_data/
 │   ├── StudentsPerformance.csv
